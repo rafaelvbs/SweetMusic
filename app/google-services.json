@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51801904347",
+    "firebase_url": "https://sweetmusic-3526b.firebaseio.com",
+    "project_id": "sweetmusic-3526b",
+    "storage_bucket": "sweetmusic-3526b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51801904347:android:0e8d581bd9ebcae05128fe",
+        "android_client_info": {
+          "package_name": "com.br.sweetmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51801904347-sqodtdv6sujdup8qvk8p4ivccpd0jpi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.sweetmusic",
+            "certificate_hash": "e351b78e4c5b82cb0016fede724ce493e9182d3f"
+          }
+        },
+        {
+          "client_id": "51801904347-5hbmmfl4rql7hh2o4ig179444js0d5hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM6Z0Svoa4R5QfRnBq3B25k7hGhlwu8K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51801904347-5hbmmfl4rql7hh2o4ig179444js0d5hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
